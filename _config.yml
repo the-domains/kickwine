@@ -1,0 +1,28 @@
+name: kickwine
+favicon: null
+layout_spectrum: 0.17642757901921868
+typography_spectrum: 0.030478634173050523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4551358048338443
+  lightness: 0.8923336206935346
+  saturation: 0.6318254463840276
+  rhythmicContrast: 0.9723307930398732
+purpose: []
