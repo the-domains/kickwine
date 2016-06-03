@@ -4,14 +4,14 @@
         <description><![CDATA[kickwine]]></description>
         <link>https://thegrid.ai/kickwine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 10:31:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 10:32:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kickwine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Test entry]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ddb604f-cd26-40ba-9797-7469faf92735.jpg">]]></description>
             <link>https://thegrid.ai/kickwine/test-entry/index.html</link>
             <guid isPermaLink="false">44ee9084-1f63-49df-9a68-44c97ffa1da6</guid>
-            <pubDate>Fri, 03 Jun 2016 10:31:22 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2016 10:32:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
