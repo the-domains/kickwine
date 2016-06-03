@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[kickwine]]></title>
+        <description><![CDATA[kickwine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 03 Jun 2016 10:30:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test entry]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ddb604f-cd26-40ba-9797-7469faf92735.jpg">]]></description>
+            <link>undefinedtest-entry/index.html</link>
+            <guid isPermaLink="false">44ee9084-1f63-49df-9a68-44c97ffa1da6</guid>
+            <pubDate>Fri, 03 Jun 2016 10:30:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
