@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Hello World
-datePublished: '2016-06-03T10:30:14.212Z'
-dateModified: '2016-06-03T10:29:47.170Z'
+datePublished: '2016-06-03T10:31:22.420Z'
+dateModified: '2016-06-03T10:30:22.293Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-03-test-entry.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-test-entry.md
 url: test-entry/index.html
 _type: Article
 
