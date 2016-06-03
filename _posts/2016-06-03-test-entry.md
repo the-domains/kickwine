@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Hello World
-datePublished: '2016-06-03T10:31:22.420Z'
-dateModified: '2016-06-03T10:30:22.293Z'
+datePublished: '2016-06-03T10:32:26.752Z'
+dateModified: '2016-06-03T10:31:31.607Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-03-test-entry.md
